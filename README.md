@@ -6,5 +6,5 @@
 <p>3. <code>source venv/bin/activate</code></p>
 <p>4. <code>pip install -r requirements.txt</code></p>
 <p>5. Create a file src/data/.env: <code>BOT_TOKEN = *token from <a href="https://t.me/BotFather">@BotFather</a>*</code></p>
-<p>5. <code>python3 src/__main__.py</code></p>
+<p>6. <code>python3 src/__main__.py</code></p>
 <p>All done!</p>
